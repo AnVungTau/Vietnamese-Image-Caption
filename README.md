@@ -7,14 +7,3 @@ Dự án này nhằm tạo ra các chú thích tự động cho hình ảnh bằ
 Ngôn ngữ lập trình: Python
 Thư viện và công cụ:TensorFlow, Keras, NumPy, Matplotlib, Pillow, Pandas, OpenCV
 
-#Cấu trúc thư mục:
-
-vietnamese-image-caption/
-├── data/
-│   ├── images/
-│   └── captions.txt
-├── notebooks/
-│   └── vietnamese-image-caption-vgg16-lstm.ipynb
-├── models/
-├── requirements.txt
-└── README.md
